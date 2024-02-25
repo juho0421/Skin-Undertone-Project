@@ -1,2 +1,2 @@
 # Skin-Undertone-Project
-머신러닝 1_termproject
+머신러닝1_termproject
